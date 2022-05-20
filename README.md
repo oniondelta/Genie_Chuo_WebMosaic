@@ -2,7 +2,7 @@
 
 ### 網址：
 
-- 效果網址：https://oniondelta.github.io/Genie_Chuo_WebMosaic/
+- 效果網址：https://oniondelta.github.io/genie_chuo_webmosaic/
 
 - 圖片來源：卓文萱 Instagram https://www.instagram.com/genie_chuo/
 
