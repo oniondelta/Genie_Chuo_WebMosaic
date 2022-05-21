@@ -1,14 +1,15 @@
 # 鑲嵌 Mosaic 網頁 (WebMosaic)，測試。
 
-### 網址：
+### 測試效果：
+- https://oniondelta.github.io/genie_chuo_webmosaic/
 
-- 效果網址：https://oniondelta.github.io/genie_chuo_webmosaic/
+### 相關網址：
 
 - 圖片來源：卓文萱 ( genie_chuo ) Instagram https://www.instagram.com/genie_chuo/
 
 - WebMosaic 處理軟體：AndreaMosaic https://www.andreaplanet.com/andreamosaic/
 
-- Instagram 抓圖軟體：https://github.com/instaloader/instaloader
+- Instagram 抓圖軟體：instaloader https://github.com/instaloader/instaloader
 
 ### 說明：
 
