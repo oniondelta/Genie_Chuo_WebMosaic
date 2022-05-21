@@ -1,4 +1,4 @@
-# 鑲嵌 Mosaic 網頁 (WebMosaic)，測試。
+# 鑲嵌 Mosaic 網頁 (WebMosaic) 測試
 
 ### 測試效果：
 - https://oniondelta.github.io/genie_chuo_webmosaic/
