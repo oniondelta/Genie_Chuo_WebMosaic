@@ -18,4 +18,5 @@
 
 ### 製作：
 
-- 以 instaloader 下載「 卓文萱 Instagram 」最初 2013-06-25 至 2022-05-20（不含影片），共 1642 張，以 AndreaMosaic 產生鑲嵌 Mosaic 網頁。
+- 以 instaloader 下載「 卓文萱 ( genie_chuo ) Instagram 」，最初 2013-06-25 至 2022-05-20（不含影片），共 1642 張。
+- 再以 AndreaMosaic 產生鑲嵌 Mosaic 網頁。
