@@ -9,7 +9,7 @@
 
 - WebMosaic 處理軟體：AndreaMosaic https://www.andreaplanet.com/andreamosaic/
 
-- Instagram 抓圖軟體：instaloader https://github.com/instaloader/instaloader
+- Instagram 抓圖套件：instaloader https://github.com/instaloader/instaloader
 
 ### 說明：
 
@@ -19,5 +19,6 @@
 
 ### 製作：
 
-- 以 instaloader 下載「 卓文萱 ( genie_chuo ) Instagram 」，最初 2013-06-25 至 2022-05-20（不含影片），共 1642 張。
+- 以 Python 套件 instaloader 下載「 卓文萱 ( genie_chuo ) Instagram 」，最初 2013-06-25 ~ 2022-05-20（不含影片），共 1642 張。
+
 - 再以 AndreaMosaic 產生鑲嵌 Mosaic 網頁。
