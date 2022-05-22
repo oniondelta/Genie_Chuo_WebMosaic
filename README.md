@@ -27,8 +27,8 @@
 
 2. AndreaMosaic 產生鑲嵌 Mosaic 網頁。
 
-3. 修改 index.html 細部，並使其可以連結 Instagram 之 PO 帖。
+3. 修改 index.html，使可連結 Instagram 之 PO 帖。
 
 ### 備註：
 
-- Python 套件 instaloader 需使用 Instagram 帳號登錄。`注意！！！區間抓圖量太大，會封鎖該帳號抓取圖片，並影響正常網頁瀏覽去觀看 PO 文`。
+- Python 套件 instaloader 需使用 Instagram 帳號登錄。`注意！！！區間抓圖量太大，會封鎖該帳號抓取圖片，並影響正常網頁瀏覽去觀看 PO 帖`。
