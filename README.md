@@ -31,4 +31,6 @@
 
 ### 備註：
 
-- Python 套件 instaloader 需使用 Instagram 帳號登錄。`注意！！！區間抓圖量太大，會封鎖該帳號抓取圖片，並影響正常網頁瀏覽去觀看 PO 帖`。
+- Python 套件 instaloader 需使用 Instagram 帳號登錄。
+
+- 承上，注意❗️區間抓圖太多，會封鎖該帳號抓取圖片，連正常網頁瀏覽 PO 帖也被封鎖。
