@@ -27,7 +27,7 @@
 
 2. AndreaMosaic 產生鑲嵌 Mosaic 網頁。
 
-3. 修改 index.html，使可連結 Instagram 之 PO 帖。
+3. 修改 index.html，連結 Instagram PO 帖。
 
 ### 備註：
 
