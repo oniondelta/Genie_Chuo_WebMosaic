@@ -1,4 +1,4 @@
-# 鑲嵌 WebMosaic 測試
+# WebMosaic 測試
 
 ### 效果：
 - https://oniondelta.github.io/genie_chuo_webmosaic/
@@ -19,7 +19,7 @@
 
 > * 點彈出框〔ShortCode〕：連結 Instagram 該圖 PO 帖。
 
-- 左側 🔍 輸入日期（格式：2022-05-20）：搜尋該日期 PO 圖，以 ⭕️ 紅圈標示。
+- 左側 🔍 輸入日期（格式：2022-05-20）：搜尋該日期 PO 圖，以 ⭕️ 標示。
 
 ### 製作：
 
@@ -33,4 +33,4 @@
 
 - Python 套件 instaloader 需使用 Instagram 帳號登錄。
 
-- 承上，注意❗️區間抓圖太多，會限制該帳號抓取圖片，連正常網頁瀏覽 PO 帖也無法。
+- 承上，注意❗️區間抓圖太多，會限制該帳號存取圖片，正常網頁瀏覽 PO 帖也無法。
