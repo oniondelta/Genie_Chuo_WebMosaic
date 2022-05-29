@@ -1,15 +1,7 @@
-# WebMosaic 測試
+# WebMosaic 試作
 
 ### 效果：
 - https://oniondelta.github.io/genie_chuo_webmosaic/
-
-### 相關網址：
-
-- 圖片來源：卓文萱 ( genie_chuo ) Instagram https://www.instagram.com/genie_chuo/
-
-- WebMosaic 處理軟體：AndreaMosaic https://www.andreaplanet.com/andreamosaic/
-
-- Instagram 抓圖套件：instaloader https://github.com/instaloader/instaloader
 
 ### 說明：
 
@@ -20,6 +12,14 @@
 > * 點彈出框〔ShortCode〕：連結 Instagram 該圖 PO 帖。
 
 - 左側 🔍 輸入日期（格式：2022-05-20）：搜尋該日期 PO 圖，以 ⭕️ 標示。
+
+### 相關網址：
+
+- 圖片來源：卓文萱 ( genie_chuo ) Instagram https://www.instagram.com/genie_chuo/
+
+- WebMosaic 處理軟體：AndreaMosaic https://www.andreaplanet.com/andreamosaic/
+
+- Instagram 抓圖套件：instaloader https://github.com/instaloader/instaloader
 
 ### 製作：
 
