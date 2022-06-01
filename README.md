@@ -23,11 +23,17 @@
 
 ### 製作：
 
-1. Python 套件 instaloader 下載「 卓文萱 ( genie_chuo ) Instagram 」，最初 2013-06-26 ~ 2022-05-20，共 1642 張。
+1. Python 套件 instaloader 下載「 卓文萱 ( genie_chuo ) Instagram 」。
 
-2. AndreaMosaic 產生鑲嵌 Mosaic 網頁。設定 Mosaic 圖片 44×44 共 1936 張，抓圖之 1642 張皆在內，至多重複 2 次。
+> * 從最初 2013-06-26 ~ 2022-05-20，共 1642 張。
+
+2. AndreaMosaic 產生鑲嵌 Mosaic 網頁。
+
+> * 設定 Mosaic 圖片 44×44 共 1936 張，抓圖之 1642 張皆在內，至多重複 2 次。
 
 3. 修改 index.html，連結 Instagram PO 帖。
+
+> * 尚修改 html 和 js 一些小細節。
 
 ### 備註：
 
