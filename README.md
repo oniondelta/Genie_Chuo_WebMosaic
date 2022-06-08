@@ -1,4 +1,4 @@
-# 以 卓文萱 ( genie_chuo ) Instagram 試作 WebMosaic
+# 卓文萱 ( genie_chuo ) Instagram WebMosaic
 
 ### 效果：
 - https://oniondelta.github.io/genie_chuo_webmosaic/
