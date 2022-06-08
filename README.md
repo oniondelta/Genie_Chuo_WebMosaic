@@ -1,6 +1,6 @@
 # 卓文萱 ( genie_chuo ) Instagram WebMosaic
 
-### 效果：
+### WebMosaic 網頁：
 - https://oniondelta.github.io/genie_chuo_webmosaic/
 
 ### 說明：
