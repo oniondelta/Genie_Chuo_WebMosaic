@@ -11,7 +11,7 @@
 
 > * 點彈出框〔大圖〕：圖檔 jpg。
 
-> * 點彈出框〔Instagram 貼文〕：連結 Instagram 該圖 PO 帖。
+> * 點彈出框〔Instagram 貼文〕：連結該圖 PO 帖。
 
 - 左側 🔍 搜尋：〔日期〕（格式：2022-05-20）或〔ShortCode〕搜尋 PO 圖，以 ⭕️ 標示。
 
