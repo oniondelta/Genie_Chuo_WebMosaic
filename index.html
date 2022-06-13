@@ -2010,7 +2010,7 @@
         var getPopUpFullText = function (x,y,callback) {
             var tile = getTileObject(x,y);
             popUpText = tile === null ? "No information available" :
-                        (tile.imageUrl == null? '' : '<a href="' + tile.imageUrl + '" target="TileImage"><img src="' + tile.imageUrl + '" width=300 /></a><br>')
+                        (tile.imageUrl == null? '' : '<a href="./tiles/' + tile.imageUrl + '" target="TileImage"><img src="./tiles/' + tile.imageUrl + '" width=300 alt="JPG 大圖" /></a><br>')
                         + 'Tile Nr.: ' + tile.tileNr + '<br>'
                         + 'Tile Size: ' + tile.tileWidth + ' x ' + tile.tileHeight + '<br>'
                         + 'Tile Position: ' + tile.tileLeft + ' x ' + tile.tileTop + '<br>'
@@ -2024,15 +2024,15 @@
         // PopUp showing only the image
         var getPopUpImageOnly = function (x,y,callback) {
             var tile = getTileObject(x,y);
-            popUpText = tile === null || tile.imageUrl === null ? "No information available" : '<a href="./tiles/' + tile.imageUrl + '" target="TileImage"><img src="./tiles/' + tile.imageUrl + '" width=300 /></a><br>';
+            popUpText = tile === null || tile.imageUrl === null ? "No information available" : '<a href="./tiles/' + tile.imageUrl + '" target="TileImage"><img src="./tiles/' + tile.imageUrl + '" width=300 alt="JPG 大圖" /></a><br>';
             showPopUpWindow(popUpText,callback);
         };
 
         // PopUp showing the image with name and usage count
         var getPopUpImageWithName = function (x,y,callback) {
             var tile = getTileObject(x,y);
-            popUpText = tile === null || tile.imageUrl === null ? "No information available" : '<a href="./tiles/' + tile.imageUrl + '" target="TileImage"><img src="./tiles/' + tile.imageUrl + '" width=300 /></a><br>'
-                + '<center><a href="https://www.instagram.com/p/' + tile.instagramPost + '/" target="_blank">Instagram 貼文</a><br>'
+            popUpText = tile === null || tile.imageUrl === null ? "No information available" : '<center><a href="./tiles/' + tile.imageUrl + '" target="TileImage"><img src="./tiles/' + tile.imageUrl + '" width=300 alt="JPG 大圖" /></a><br>'
+                + '<a href="https://www.instagram.com/p/' + tile.instagramPost + '/" target="_blank">Instagram 貼文</a><br>'
                 + tile.imageName
                 + '<br> (used ' + tile.imageUsageCount + ' times) </center>';
             showPopUpWindow(popUpText,callback);
