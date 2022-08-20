@@ -27,7 +27,7 @@
 
 1. Python 套件 instaloader 下載「 卓文萱 ( genie_chuo ) Instagram 」。
 
-> * 從最初 2013-06-26 ~ 2022-05-20，共 1642 張。
+> * 從最初 2013-06-26 ~ 2022-08-20，共 1658 張。
 
 2. AndreaMosaic 產生鑲嵌 Mosaic 網頁。
 
