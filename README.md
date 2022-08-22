@@ -1,7 +1,10 @@
 # 卓文萱 ( genie_chuo ) Instagram WebMosaic
 
 ### WebMosaic 網頁：
+
 - https://oniondelta.github.io/genie_chuo_webmosaic/
+
+- https://oniondelta.github.io/genie_chuo_webmosaic/2.html
 
 ### 說明：
 
@@ -31,9 +34,11 @@
 
 2. AndreaMosaic 產生鑲嵌 Mosaic 網頁。
 
-> * 設定 Mosaic 圖片 35×56 共 1960 張，抓圖之 1658 張皆在內，至多重複 2 次。
+> * index.html 設定 Mosaic 圖片 35×56 共 1960 張，抓圖之 1658 張皆在內，至多重複 2 次。
 
-3. 修改 index.html，連結 Instagram PO 帖。
+> * 2.html 設定 Mosaic 圖片 45×45 共 2025 張，抓圖之 1658 張皆在內，至多重複 2 次。
+
+3. 修改 html，連結 Instagram PO 帖。
 
 > * 尚修改 html 和 js 一些小細節。
 
